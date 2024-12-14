@@ -6,4 +6,3 @@ jobs:
     steps:
       - run: ls -l
       - run: hostname
-
